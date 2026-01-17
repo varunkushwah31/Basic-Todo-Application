@@ -1,0 +1,7 @@
+spring.application.name=todo
+
+spring.datasource.url=jdbc:{Database URL}
+spring.datasource.username={Your Username}
+spring.datasource.password={Your Password}
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
